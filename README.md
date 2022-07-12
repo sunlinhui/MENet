@@ -5,9 +5,11 @@ The proposed MENet is implemented on CUDA 10.1, Pytorch 1.1, and Python 3.6.
 ### Dataset
 * DVS128 Gesture Dataset [[Link]](https://research.ibm.com/interactive/dvsgesture/)
 
-* N-MNIST [[Link]](https://www.garrickorchard.com/datasets/n-mnist)
+* MNIST-DVS [[Link]](http://www2.imse-cnm.csic.es/caviar/MNISTDVS.html)
 
 * N-Cars [[Link]](https://www.prophesee.ai/2018/03/13/dataset-n-cars/)
+
+* CIFAR10-DVS [[Link]](https://paperswithcode.com/dataset/cifar10-dvs)
 ### Data processing
 * DVS128 Gesture Dataset
 
